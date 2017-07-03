@@ -1,0 +1,17 @@
+{
+  "name": "sprite",
+  "version": "1.0.0",
+  "description": "合成雪碧图",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "yinxl",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-css-spriter": "^0.4.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp.spritesmith": "^6.5.0"
+  }
+}
